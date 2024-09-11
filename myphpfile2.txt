@@ -1,0 +1,8 @@
+How to Write Your First Hello World Program in PHP
+Now that you have learned about PHP and its advantages, it's time to write your first Hello World program in it!
+
+First of all, you must have PHP installed on your local machine. You can get that done by installing an XAMP (Cross-Platform, Apache, MySQL, and PHP) or WAMP (Windows, Apache, MySQL, and PHP) server.
+
+XAMP works on all operating systems and WAMP works only in Windows. I will be using WAMP.
+
+Open up the WAMP or XAMP server and make sure all services are running. If you are using WAMP, the WAMP logo should show on your taskbar with the color green.
